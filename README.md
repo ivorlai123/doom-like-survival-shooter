@@ -6,7 +6,7 @@
 
 北大网盘链接：TODO: 在这里填写演示视频链接
 
-本地演示文件：`DoomLikeProject/85-1 演示 .mp4`
+本地演示文件：`doom_fps_record.mp4`
 
 ## 运行方式
 
